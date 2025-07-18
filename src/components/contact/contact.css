@@ -90,4 +90,7 @@ label{
     .footer{
     bottom: 56px;
     }
+    .animation{
+        display:none;
+    }
 }
